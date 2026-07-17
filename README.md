@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-orange.svg)
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-Econometrics-green.svg)
-![Grade](https://img.shields.io/badge/Academic_Grade-30%2F30-brightgreen.svg)
 
 ## 📌 Project Overview
 This repository contains a Master's-level Data Science project that investigates the macroeconomic determinants of subjective well-being across OECD nations. 
